@@ -1,3 +1,3 @@
 # olympia
 
-Simple data structures written in Rust.
+The most optimal binary heap written in Rust!
